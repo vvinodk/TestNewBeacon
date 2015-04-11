@@ -1,0 +1,2 @@
+# TestNewBeacon
+Test
